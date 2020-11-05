@@ -1,0 +1,20 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.Box-relative {
+    background-color: #eee;
+    width: 100%;
+    height: 250px;
+    position: relative;
+}
+
+#Box-absolute {
+    background-color: darkgray;
+    width: 40%;
+    height: 100px;
+    position: absolute;
+    right: -30px;
+    bottom: 0;
+}
